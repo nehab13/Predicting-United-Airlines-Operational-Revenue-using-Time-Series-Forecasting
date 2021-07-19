@@ -1,2 +1,2 @@
 # Predicting-United-Airlines-Operational-Revenue-using-Time-Series-Forecasting
-# This dataset is collected from 'Bureau of Transportation Statistics' website. The dataset consists of quarterly operating revenue of the airlines from 1st quarter of 2000 to 1st quarter of 2021. The goal  is to predict the operating revenue of the last three quarters (for 2021) and all the first quarter (for 2022) respectively.
+### This dataset is collected from 'Bureau of Transportation Statistics' website. The dataset consists of quarterly operating revenue of the airlines from 1st quarter of 2000 to 1st quarter of 2021. The goal  is to predict the operating revenue of the last three quarters (for 2021) and all the first quarter (for 2022) respectively.
